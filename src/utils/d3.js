@@ -45,10 +45,10 @@ const affineRight = [
 	[0.29, 0.95],
 ];
 // 画布
-const canvasW = 256;
-const canvasH = 256;
+const canvasW = 196;
+const canvasH = 196;
 const centerX = Math.round(canvasW / 2);
-const centerY = Math.round(canvasH / 2) - 24;
+const centerY = Math.round(canvasH / 2) - 29;
 
 const faceALeft = centerX;
 const faceATop = centerY - 32;
